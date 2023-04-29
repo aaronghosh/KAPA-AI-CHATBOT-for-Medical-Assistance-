@@ -1,0 +1,307 @@
+[
+  {
+    "id": "65a5d9fb-d3f3-4873-b668-8e69cffeff60",
+    "data": [
+      {
+        "text": "I enjoy playing ",
+        "userDefined": false
+      },
+      {
+        "text": "video games",
+        "meta": "@activities",
+        "alias": "activities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65d29244-c055-426c-970e-63041e11d036",
+    "data": [
+      {
+        "text": "I love ",
+        "userDefined": false
+      },
+      {
+        "text": "puppies",
+        "meta": "@activities",
+        "alias": "activities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ed3a253-fb94-4e25-96c2-d145633aa4ed",
+    "data": [
+      {
+        "text": "I like playing ",
+        "userDefined": false
+      },
+      {
+        "text": "Video Games",
+        "meta": "@activities",
+        "alias": "activities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11c69c0f-f7ce-4330-b55c-8c856a554b59",
+    "data": [
+      {
+        "text": "I like playing ",
+        "userDefined": false
+      },
+      {
+        "text": "computer games",
+        "meta": "@activities",
+        "alias": "activities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "180a4ce9-faea-4ac0-9f21-5895ea57139f",
+    "data": [
+      {
+        "text": "I like to ",
+        "userDefined": false
+      },
+      {
+        "text": "play games",
+        "meta": "@activities",
+        "alias": "activities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79d4a3be-e174-4ea3-a5fc-b094a36d6db5",
+    "data": [
+      {
+        "text": "computer games",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7af46bb0-e216-4bd9-beb9-64200aeb0289",
+    "data": [
+      {
+        "text": "I like to play computer games",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3cabab9-251b-44bd-a37a-205cc6c9d0d0",
+    "data": [
+      {
+        "text": "I like to do ",
+        "userDefined": false
+      },
+      {
+        "text": "outdoor",
+        "meta": "@activities",
+        "alias": "activities",
+        "userDefined": false
+      },
+      {
+        "text": " activities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2941871-560f-4238-b473-d6074637cec8",
+    "data": [
+      {
+        "text": "I like ",
+        "userDefined": false
+      },
+      {
+        "text": "playing",
+        "meta": "@activities",
+        "alias": "activities",
+        "userDefined": false
+      },
+      {
+        "text": " games on my PC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f24cb2e6-9f0c-4e76-ab35-db77b604d396",
+    "data": [
+      {
+        "text": "miscellanous",
+        "meta": "@activities",
+        "alias": "activities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f215352-ba28-4e5f-9b2f-f5800590846b",
+    "data": [
+      {
+        "text": "I love ",
+        "userDefined": false
+      },
+      {
+        "text": "playing guitar, swimmming and dogs",
+        "meta": "@activities",
+        "alias": "activities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffb913dd-6d28-4d5b-98ce-ea4dfbec6173",
+    "data": [
+      {
+        "text": "I spend time with ",
+        "userDefined": false
+      },
+      {
+        "text": "pets",
+        "meta": "@activities",
+        "alias": "activities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5daa08b1-4a44-4fdf-ba41-6b2dbf0396c1",
+    "data": [
+      {
+        "text": "I like to play PC games",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2950a57d-b6ff-4478-92c0-85326d0b78af",
+    "data": [
+      {
+        "text": "computer games",
+        "meta": "@activities",
+        "alias": "activities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0af29ab9-f455-4355-89bb-afbaa627969d",
+    "data": [
+      {
+        "text": "just ",
+        "userDefined": false
+      },
+      {
+        "text": "swimming",
+        "meta": "@activities",
+        "alias": "activities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f023664e-c8ff-41b0-b7ea-4e5488c0d61a",
+    "data": [
+      {
+        "text": "I love ",
+        "userDefined": false
+      },
+      {
+        "text": "reading",
+        "meta": "@activities",
+        "alias": "activities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b954436a-c3ea-47c2-ab88-3cca7a1de832",
+    "data": [
+      {
+        "text": "I enjoy ",
+        "userDefined": false
+      },
+      {
+        "text": "playing",
+        "meta": "@activities",
+        "alias": "activities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

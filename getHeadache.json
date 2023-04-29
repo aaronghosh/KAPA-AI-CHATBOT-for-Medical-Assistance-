@@ -1,0 +1,50 @@
+{
+  "id": "64ef04dd-8a9f-4831-84af-ecd45dc36f86",
+  "name": "getHeadache",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "getSevereHeadache",
+          "lifespan": 5,
+          "parameters": {}
+        },
+        {
+          "name": "getMildHeadache",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Is it a mild headache or a severe headache?",
+            "Is it a severe headache or a mild headache?",
+            "Is it severe or mild?",
+            "Is it mild or severe?",
+            "Mild or severe one?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

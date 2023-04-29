@@ -1,0 +1,54 @@
+[
+  {
+    "id": "22c1434b-bb8f-4708-a3c5-e28ed543ab2d",
+    "data": [
+      {
+        "text": "schedule an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd12369c-4442-4401-8953-bd38904fd1a7",
+    "data": [
+      {
+        "text": "schedule an appointment for a ",
+        "userDefined": false
+      },
+      {
+        "text": "doctor\u0027s visit",
+        "meta": "@sys.any",
+        "alias": "AppointmentType",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "3pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

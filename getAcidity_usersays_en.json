@@ -1,0 +1,73 @@
+[
+  {
+    "id": "af42336d-0684-4ef5-9532-1fd7838f12c2",
+    "data": [
+      {
+        "text": "My stomach feels acidic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a47cd864-da26-4405-a929-5473e09dcffa",
+    "data": [
+      {
+        "text": "My stomach is having a burning sensation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a52338bf-e5d9-4e52-8fb2-3770737806c4",
+    "data": [
+      {
+        "text": "My stomach is burning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5239c3df-1357-4e83-832f-76b601be09ab",
+    "data": [
+      {
+        "text": "Acidity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddc1ab7c-4f99-401a-a516-4d923b34c9e6",
+    "data": [
+      {
+        "text": "My stomach is ",
+        "userDefined": false
+      },
+      {
+        "text": "irritating",
+        "meta": "@negativeFeelings",
+        "alias": "negativefeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

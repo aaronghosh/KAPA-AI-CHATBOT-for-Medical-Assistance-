@@ -1,0 +1,67 @@
+[
+  {
+    "id": "6a99a8d2-3826-4f04-81fe-599da8de038a",
+    "data": [
+      {
+        "text": "My head is aching",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37910a37-a217-46d2-a02c-6757948bc7bf",
+    "data": [
+      {
+        "text": "I feel like my head is aching",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3f48622-9535-4bac-b456-bd6adb32bf56",
+    "data": [
+      {
+        "text": "Head is feeling heavy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fe6043a-22ae-47ea-85a2-cc5014827fe8",
+    "data": [
+      {
+        "text": "Headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2c96aae-cf4c-45ec-97c8-e7a856e6a476",
+    "data": [
+      {
+        "text": "I am having a headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

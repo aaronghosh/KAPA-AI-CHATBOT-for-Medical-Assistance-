@@ -1,0 +1,50 @@
+{
+  "id": "bb7796d4-5d8d-4cd3-8c47-49656832a5bf",
+  "name": "getAcidity",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e3efee96-e72d-4993-91d6-b0f87feb2c90",
+          "name": "negativefeelings",
+          "required": false,
+          "dataType": "@negativeFeelings",
+          "value": "$negativefeelings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Drink a glass of cold milk to soothe the acidity.\nEat bananas, as they are natural antacids.\nMix a teaspoon of baking soda with water and drink it to neutralize the acid in your stomach. However, please note that these are not a substitute for professional medical advice. If your symptoms persist or worsen, it\u0027s important to seek medical attention."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

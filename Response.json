@@ -1,0 +1,40 @@
+{
+  "id": "900630a8-747c-470c-9d94-5549e1ddb7a6",
+  "name": "Response",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Tell me what happenned",
+            "What happened",
+            "Tell me how are you feeling",
+            "Tell me your problem",
+            "What is the issue",
+            "Tell me in detail"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

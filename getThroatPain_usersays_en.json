@@ -1,0 +1,86 @@
+[
+  {
+    "id": "12c46068-ad78-4862-b79b-4c1450370509",
+    "data": [
+      {
+        "text": "throat is not feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9e9640b-a0ee-42e1-a26f-0c3da0443c76",
+    "data": [
+      {
+        "text": "throat pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6ca25ce-d181-43e5-80c1-e562b834d99b",
+    "data": [
+      {
+        "text": "throat is paining",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3813b3f3-b72e-4a10-9b6d-0a6cdce44094",
+    "data": [
+      {
+        "text": "throat is sore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fca1e7d6-e945-4a01-b512-d59c670d2209",
+    "data": [
+      {
+        "text": "sore throat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "602506e3-a33e-4920-88ee-c3e491c51a10",
+    "data": [
+      {
+        "text": "My throat seems to be sore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

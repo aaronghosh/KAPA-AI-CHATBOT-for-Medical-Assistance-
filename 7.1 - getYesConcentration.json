@@ -1,0 +1,87 @@
+{
+  "id": "b83165aa-c0cf-43e6-b950-6a24427e53c6",
+  "name": "7.1 - getYesConcentration",
+  "auto": true,
+  "contexts": [
+    "yesConcetration"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "explainActivities",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "47b0830c-3655-4efb-8cf1-e5aed8be89a9",
+          "name": "any",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$any",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f31ed315-3d20-4740-808d-4f8a5a7a251f",
+          "name": "positiveBoolean",
+          "required": false,
+          "dataType": "@positiveBoolean",
+          "value": "$positiveBoolean",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4311ad79-a710-430b-a07c-7f740c699efe",
+          "name": "negativeFeelings",
+          "required": false,
+          "dataType": "@negativeFeelings",
+          "value": "$negativeFeelings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I can help you to improve your concentration.\nI found these links online which might be helpful to you. \nhttps://www.artofmanliness.com/2012/08/08/12-concentration-exercises-from-1918/\nhttps://www.theguardian.com/money/2010/jul/24/secret-to-improving-concentration\nNow, Let us talk about the activities that you enjoy the most..",
+            "Here are the quick results that I think will be useful. Check out them .....\nhttps://www.huffingtonpost.com/2013/08/28/how-to-focus_n_3795523.html\nhttps://www.magneticmemorymethod.com/improve-focus/\nI enjoy learning from conversations with people like you. What kind of activities keep you happy?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

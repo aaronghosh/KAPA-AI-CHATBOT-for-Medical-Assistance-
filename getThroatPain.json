@@ -1,0 +1,50 @@
+{
+  "id": "e69f6023-6d75-4f59-85c4-d9ac3a2bcbd3",
+  "name": "getThroatPain",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8c7b5a0f-5d80-4b9b-85ba-1ca62d99c6c9",
+          "name": "feelings",
+          "required": false,
+          "dataType": "@feelings",
+          "value": "$feelings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Gargle with warm salt water to soothe a sore throat.\nDrink plenty of fluids, such as water, tea, or soup, to stay hydrated.\nSuck on a lozenge or hard candy to help moisten your throat and reduce irritation. However, please note that these are not a substitute for professional medical advice. If your symptoms persist or worsen, it\u0027s important to seek medical attention."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

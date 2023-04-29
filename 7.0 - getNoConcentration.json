@@ -1,0 +1,60 @@
+{
+  "id": "3126238d-ce9e-4cc8-ad22-9975d7fd3c7c",
+  "name": "7.0 - getNoConcentration",
+  "auto": true,
+  "contexts": [
+    "noConcentration"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "explainActivities",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e2d229e4-9de5-439a-9caa-ca9ddd689a92",
+          "name": "negativeBoolean",
+          "required": false,
+          "dataType": "@negativeBoolean",
+          "value": "$negativeBoolean",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Let us talk about the activities that you enjoy the most.",
+            "Let us talk about what you enjoy the most.",
+            "I learnt a lot from these conversations, how about you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

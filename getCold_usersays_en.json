@@ -1,0 +1,106 @@
+[
+  {
+    "id": "c523f272-fd13-4091-8305-1b5d135a2c7f",
+    "data": [
+      {
+        "text": "i have cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14591517-e3b1-4f9f-bf73-f2ef0a259409",
+    "data": [
+      {
+        "text": "have cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49d9f0a5-a2bd-43d8-ae0a-1652e498099a",
+    "data": [
+      {
+        "text": "i feel like i have cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72723a22-ca6b-426a-951d-222d351b9301",
+    "data": [
+      {
+        "text": "i feel as if i have cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bdf0cae-ca72-45d8-a391-87eb12ef8e44",
+    "data": [
+      {
+        "text": "nose is running",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "831cd80c-bfc4-4140-acd8-52cc9a10060b",
+    "data": [
+      {
+        "text": "running nose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77317661-1f23-439e-ab72-bee596166139",
+    "data": [
+      {
+        "text": "cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9975d6b1-21b6-4e82-844e-8ff1598774b7",
+    "data": [
+      {
+        "text": "I feel like my nose is running",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

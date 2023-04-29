@@ -1,0 +1,41 @@
+[
+  {
+    "id": "404d5bbc-3ff9-4e5e-8df3-4e178f7e96f6",
+    "data": [
+      {
+        "text": "I am suffering from food poisoning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cd201b1-c8ac-4a0d-8734-d009b398768c",
+    "data": [
+      {
+        "text": "food poisoning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eae61b28-d0a6-4d51-9d76-0b8d60cd5294",
+    "data": [
+      {
+        "text": "I think i am suffering from food poisoning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "id": "e108af2e-4bee-4674-be04-e998450e5ac5",
+  "name": "AppointmentScheduler",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4c6fa90e-5bf0-45b6-8cbf-5706b774a6f7",
+          "name": "time",
+          "required": true,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "what time would you like to schedule an appointment at"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b0364da2-351a-4f13-bddf-0f8e8a5bffc4",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "what date would you like to schedule an appointment for"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "929992e6-fe22-409e-968e-acddaa4eaeae",
+          "name": "AppointmentType",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$AppointmentType",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "what type of appointment would you like to schedule"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You are all set for your $AppointmentType on $date at $time ,see you then!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "d266b60d-dbf9-49df-b6bf-5a392fdecdec",
+  "name": "MedicalHistory",
+  "auto": true,
+  "contexts": [
+    "getMigraine",
+    "getMildHeadache",
+    "getStomachAche",
+    "getCrampStomachAche"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "getMigraine",
+          "lifespan": 5
+        },
+        {
+          "name": "getMildHeadache",
+          "lifespan": 5
+        },
+        {
+          "name": "getStomachAche",
+          "lifespan": 5
+        },
+        {
+          "name": "getCrampStomachAche",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

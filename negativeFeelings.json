@@ -1,0 +1,9 @@
+{
+  "id": "3fdaa0bb-6b6d-4e90-9d5e-607c85977136",
+  "name": "negativeFeelings",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

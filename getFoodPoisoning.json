@@ -1,0 +1,35 @@
+{
+  "id": "5ba759fa-2c29-485b-b3cc-d625f59be7b7",
+  "name": "getFoodPoisoning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Drink plenty of water to stay hydrated.\nEat bland foods, such as rice or toast, to help settle your stomach.\nAvoid spicy or fatty foods, as they can worsen your symptoms. However, please note that these are not a substitute for professional medical advice. If your symptoms persist or worsen, it\u0027s important to seek medical attention."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "aa27ee11-45e1-493f-8051-b882b53ca98b",
+  "name": "5.1 - yesAppetite",
+  "auto": true,
+  "contexts": [
+    "getYesAppetite"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "getYesSleepCycle",
+          "lifespan": 5,
+          "parameters": {}
+        },
+        {
+          "name": "getNoSleepCycle",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "be0b362e-773e-416e-8ebb-989927a885e5",
+          "name": "positiveBoolean",
+          "required": false,
+          "dataType": "@positiveBoolean",
+          "value": "$positiveBoolean",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Have you been sleeping comparatively less or excessive these days?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

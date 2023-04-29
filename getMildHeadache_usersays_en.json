@@ -1,0 +1,67 @@
+[
+  {
+    "id": "526444de-d79e-4527-b7a1-ff78a5db5cb4",
+    "data": [
+      {
+        "text": "head is aching mildly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e0db860-985f-4bd9-89d6-5b204b17365f",
+    "data": [
+      {
+        "text": "mild ache in the head",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d76e7aaf-0dd6-43d5-9e1a-27c7e089b152",
+    "data": [
+      {
+        "text": "mild headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1173d76d-7646-40f7-b371-72857a2e1676",
+    "data": [
+      {
+        "text": "mild",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b06249ad-9297-4b7a-9a12-eb8209d8d189",
+    "data": [
+      {
+        "text": "It is a mild one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

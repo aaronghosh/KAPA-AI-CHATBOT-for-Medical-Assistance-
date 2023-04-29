@@ -1,0 +1,73 @@
+[
+  {
+    "id": "11923926-ead0-4843-aaf0-c3f399171aed",
+    "data": [
+      {
+        "text": "skin ",
+        "userDefined": false
+      },
+      {
+        "text": "irritation",
+        "meta": "@negativeFeelings",
+        "alias": "negativefeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87be52b3-b4fe-460b-b577-893cef8f70f5",
+    "data": [
+      {
+        "text": "body is itching",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e95b9362-41f8-45d4-b48e-b41f178435f9",
+    "data": [
+      {
+        "text": "my body is itching",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dce4e3e-0678-459d-be7e-b53ee28705ca",
+    "data": [
+      {
+        "text": "skin allergy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67ed5901-c0b3-4872-a6cf-fe352ef013da",
+    "data": [
+      {
+        "text": "Itching",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

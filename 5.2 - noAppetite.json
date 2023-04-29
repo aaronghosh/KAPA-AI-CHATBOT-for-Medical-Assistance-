@@ -1,0 +1,91 @@
+{
+  "id": "115d0476-2aec-4c43-9ea3-95c5c6f91d36",
+  "name": "5.2 - noAppetite",
+  "auto": true,
+  "contexts": [
+    "getNoAppetite"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "getYesSleepCycle",
+          "lifespan": 5,
+          "parameters": {}
+        },
+        {
+          "name": "getNoSleepCycle",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8a612c77-f286-451a-85f3-f383229581e5",
+          "name": "negativeBoolean",
+          "required": false,
+          "dataType": "@negativeBoolean",
+          "value": "$negativeBoolean",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d913356e-606e-4a3a-b8df-bb510aa3ea43",
+          "name": "positiveBoolean",
+          "required": false,
+          "dataType": "@positiveBoolean",
+          "value": "$positiveBoolean",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a5df74d4-835e-46b2-90fe-08589166bc43",
+          "name": "negativeFeelings",
+          "required": false,
+          "dataType": "@negativeFeelings",
+          "value": "$negativeFeelings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It is always better to maintain a healthy diet. \nThe following link might help you\nhttp://www.health.com/health/gallery/0,,20450837,00.html. Let us talk about your sleep cycle.                               \nHave you been sleeping comparatively less or excessive these days?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

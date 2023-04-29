@@ -1,0 +1,62 @@
+{
+  "description": "An agent to identify the patient\u0027s health condition and determine an appropriate remedy. It also interacts with the patient to understand the patient\u0027s health and mental condition and act accordingly to improve the patient\u0027s mental condition.",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "KAPA",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "sara-ktnrho",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "d31745d6-ac2e-472c-83b8-cc6d069a874b"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Colombo",
+  "webhook": {
+    "url": "",
+    "username": "",
+    "headers": {},
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "821d796961594cc78bd64097cebdd7d3",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [
+    "projects/kapa-xexg/knowledgeBases/MjEwNjIzMTYyMDk5MzI4NjE0NA"
+  ],
+  "knowledgeServiceConfidenceAdjustment": -0.7,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}

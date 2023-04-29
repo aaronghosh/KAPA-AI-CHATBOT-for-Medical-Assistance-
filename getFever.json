@@ -1,0 +1,35 @@
+{
+  "id": "407855e6-541c-4769-9e70-904048a9ee57",
+  "name": "getFever",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Drink plenty of fluids, such as water, juice, or soup, to stay hydrated.\nTake a cool bath or use a cool compress to reduce your body temperature.\nGet plenty of rest to help your body fight off the infection. However, please note that these are not a substitute for professional medical advice. If your symptoms persist or worsen, it\u0027s important to seek medical attention."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,94 @@
+{
+  "id": "f9fd7032-eb23-4680-ae7b-d09b0215a6d7",
+  "name": "3.0 - getIncident",
+  "auto": true,
+  "contexts": [
+    "getIncident"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "getYesIncident",
+          "lifespan": 2,
+          "parameters": {}
+        },
+        {
+          "name": "getNoIncident",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9e5a4e9b-bdf2-4abd-9181-402e72ac7515",
+          "name": "positiveBoolean",
+          "required": false,
+          "dataType": "@positiveBoolean",
+          "value": "$positiveBoolean",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry, was that a yes or no?"
+            },
+            {
+              "lang": "en",
+              "value": "Let me know if you want to share your incident or move on?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ce8d35ef-d073-4917-b469-b3ef8b1a91f5",
+          "name": "negativeBoolean",
+          "required": false,
+          "dataType": "@negativeBoolean",
+          "value": "$negativeBoolean",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Let me know if you want to share your incident or move on?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Good that you said $positiveBoolean\nI am listening...",
+            "I see it\u0027s a $negativeBoolean. That\u0027s fine.\nLet\u0027s talk about something else...",
+            "I see it\u0027s a $negativeBoolean. That\u0027s fine.\nLet\u0027s talk about something else...Let me think what topic will interest you",
+            "Good that you said $positiveBoolean\nI am listening. Let\u0027s hear it out."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

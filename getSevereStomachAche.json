@@ -1,0 +1,38 @@
+{
+  "id": "96cb8a30-16ae-4af7-aeb0-0f992db65d00",
+  "name": "getSevereStomachAche",
+  "auto": true,
+  "contexts": [
+    "getStomachAche"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It might be a colicky ache or a localized one. Both are chronic conditions. Visit the nearest hospital.",
+            "It might be a localized ache or a colicky ache. Both of them are chronic conditions. Please visit the nearest hospital as soon as possible."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

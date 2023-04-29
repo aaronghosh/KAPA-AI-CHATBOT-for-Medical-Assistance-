@@ -1,0 +1,50 @@
+{
+  "id": "b06fdbcf-ea78-406f-8375-2b5afdf632a1",
+  "name": "getSkinAllergy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b2dd0fca-b150-40f6-8dba-8bfe71ecfcd8",
+          "name": "negativefeelings",
+          "required": false,
+          "dataType": "@negativeFeelings",
+          "value": "$negativefeelings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Apply a cool, wet compress to the affected area to soothe itching and reduce inflammation.\nAvoid scratching the affected area, as it can worsen the symptoms.\nApply a natural anti-inflammatory agent, such as aloe vera or coconut oil, to the affected area to reduce redness and irritation. However, please note that these are not a substitute for professional medical advice. If your symptoms persist or worsen, it\u0027s important to seek medical attention."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

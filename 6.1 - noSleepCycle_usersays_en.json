@@ -1,0 +1,227 @@
+[
+  {
+    "id": "6e0ae8c1-1edd-4da1-ba43-ac47a591767f",
+    "data": [
+      {
+        "text": "less",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "695fbbc2-8436-41ea-baed-2741840521ac",
+    "data": [
+      {
+        "text": "not really",
+        "meta": "@negativeBoolean",
+        "alias": "negativeBoolean",
+        "userDefined": false
+      },
+      {
+        "text": " i hardly sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d50927cc-d047-4063-aee5-0bd97264a2f3",
+    "data": [
+      {
+        "text": "almost ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9b737b2-8578-41d3-87cb-e14fbce64189",
+    "data": [
+      {
+        "text": "I am sleeping well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a312a193-19f0-49e5-b554-754031acf4c2",
+    "data": [
+      {
+        "text": "no",
+        "meta": "@negativeBoolean",
+        "alias": "negativeBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e0821d9-444e-4ba1-b914-13a90f290431",
+    "data": [
+      {
+        "text": "I am having ",
+        "userDefined": false
+      },
+      {
+        "text": "sound",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      },
+      {
+        "text": " sleep ",
+        "userDefined": false
+      },
+      {
+        "text": "from past 2 days",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9db9116b-1071-465c-9ccc-1fbccea2a722",
+    "data": [
+      {
+        "text": "sleeping normally",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f572684-0fbf-4a2c-a877-3771afe53129",
+    "data": [
+      {
+        "text": "i get ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      },
+      {
+        "text": " sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7156f6a5-7127-4f4b-87f1-9dfbf726555d",
+    "data": [
+      {
+        "text": "no",
+        "meta": "@negativeBoolean",
+        "alias": "negativeBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b02b5fc-332d-436c-8b5e-f62df12a38de",
+    "data": [
+      {
+        "text": "nah..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8422e855-c088-4e1c-a3b7-c1d9a722a125",
+    "data": [
+      {
+        "text": "I dont think so, I am having a good sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "421ec745-aaac-4adf-bc94-57bfd78ba95b",
+    "data": [
+      {
+        "text": "not really",
+        "meta": "@negativeBoolean",
+        "alias": "negativeBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc003f59-529b-4e9c-aae1-39adfaa8191c",
+    "data": [
+      {
+        "text": "nope",
+        "meta": "@negativeBoolean",
+        "alias": "negativeBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

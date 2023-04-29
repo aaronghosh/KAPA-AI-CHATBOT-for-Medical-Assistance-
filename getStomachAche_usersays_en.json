@@ -1,0 +1,106 @@
+[
+  {
+    "id": "c40731b2-0334-41b8-b7d1-a644f195a9ba",
+    "data": [
+      {
+        "text": "my stomach is paining too much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9b5bf22-3a2c-4d72-992d-669f6fbc73c8",
+    "data": [
+      {
+        "text": "stomach is paining",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5e1a293-961e-49c0-854d-a3fc4f9248e8",
+    "data": [
+      {
+        "text": "cramps in the stomach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8671a9e8-be9a-4fe2-bc87-9ad31a4d838d",
+    "data": [
+      {
+        "text": "stomach pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62814a55-1f50-44ed-a563-1742fe924f40",
+    "data": [
+      {
+        "text": "stomach is aching",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13247d7c-b863-4ccb-84bd-f427297608de",
+    "data": [
+      {
+        "text": "pain in the stomach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8089814b-eca9-4b66-acea-9e710b3f1358",
+    "data": [
+      {
+        "text": "stomach ache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b65f5d62-2281-46a4-81d3-7e303259d613",
+    "data": [
+      {
+        "text": "I feel like I have stomach ache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

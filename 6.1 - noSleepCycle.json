@@ -1,0 +1,106 @@
+{
+  "id": "5a58cd5c-dbd8-4515-bab1-603e9dc5f2dc",
+  "name": "6.1 - noSleepCycle",
+  "auto": true,
+  "contexts": [
+    "getNoSleepCycle"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "noConcentration",
+          "lifespan": 2,
+          "parameters": {}
+        },
+        {
+          "name": "yesConcetration",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ed1a8eb8-368b-4537-979b-7967348dd6ea",
+          "name": "negativeBoolean",
+          "required": false,
+          "dataType": "@negativeBoolean",
+          "value": "$negativeBoolean",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0b130cc2-565c-4f6f-83e7-1086869ea992",
+          "name": "any",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$any",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5bc672b7-214f-44e2-be80-8b8300cceda0",
+          "name": "feelings",
+          "required": false,
+          "dataType": "@feelings",
+          "value": "$feelings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7ac8a7ef-f0c4-45c6-9209-b3ccf168094e",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Do you find it difficult to concentrate on your daily tasks?",
+            "Do you find it hard to concentrate on your daily activities?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

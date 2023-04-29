@@ -1,0 +1,259 @@
+[
+  {
+    "id": "c5bcb940-2e24-401f-85c5-04d9fcaaf830",
+    "data": [
+      {
+        "text": "My appetite is ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5808e766-5227-4db2-a701-5c917a0a1125",
+    "data": [
+      {
+        "text": "My appetite seems to be bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77666056-b498-4019-bb49-6cb2ff9232ea",
+    "data": [
+      {
+        "text": "Yes",
+        "meta": "@positiveBoolean",
+        "alias": "positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", my appetite seems to be bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f804d92-c52b-4026-b9ff-481486c66aaf",
+    "data": [
+      {
+        "text": "yes",
+        "meta": "@positiveBoolean",
+        "alias": "positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", my appetite seems to be bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54b1c95c-8d90-4cfd-bc88-fbd146dd3517",
+    "data": [
+      {
+        "text": "Yes",
+        "meta": "@positiveBoolean",
+        "alias": "positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", my appetite is ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68f637b3-19d1-4c0c-8237-cdaecc005f6e",
+    "data": [
+      {
+        "text": "yes",
+        "meta": "@positiveBoolean",
+        "alias": "positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", my appetite is ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7ff11fa-0dc8-49f0-86ee-b90af60e2818",
+    "data": [
+      {
+        "text": "my appetite seems to be ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@negativeBoolean",
+        "alias": "negativeBoolean",
+        "userDefined": true
+      },
+      {
+        "text": " these days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25279dc7-2b5e-4f1f-8afb-195b3d8b54cf",
+    "data": [
+      {
+        "text": "no",
+        "meta": "@negativeBoolean",
+        "alias": "negativeBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", my appetite seems to be bad these days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "131d2a49-2a99-4ff4-908a-40f687723604",
+    "data": [
+      {
+        "text": "nah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "052459ac-0b68-4d81-8903-8e817d068a23",
+    "data": [
+      {
+        "text": "no",
+        "meta": "@negativeBoolean",
+        "alias": "negativeBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3a90f8a-e155-4f75-a883-141f54253f47",
+    "data": [
+      {
+        "text": "no,",
+        "meta": "@negativeBoolean",
+        "alias": "negativeBoolean",
+        "userDefined": false
+      },
+      {
+        "text": " my appetite seems to be bad these days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "My appetite is ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@negativeFeelings",
+        "alias": "negativefeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "my appetite is ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@negativeFeelings",
+        "alias": "negativefeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "my appetite is bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

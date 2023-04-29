@@ -1,0 +1,101 @@
+{
+  "id": "65787f2a-006f-4390-94b8-c7d9fcbc1515",
+  "name": "1.0 - getMood",
+  "auto": true,
+  "contexts": [
+    "getTheFeels"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "getIncident",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2f2d57bd-35aa-4b70-b498-c33f4f4ffddf",
+          "name": "feelings",
+          "required": false,
+          "dataType": "@feelings",
+          "value": "$feelings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d0b416c9-79fc-448f-9dbe-106bf58a316a",
+          "name": "negativefeelings",
+          "required": false,
+          "dataType": "@negativeFeelings",
+          "value": "$negativefeelings",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d64d8b78-a0d4-43b6-8f51-320169bc41f1",
+          "name": "date",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "61eb1d0c-854c-4649-a5bd-f3dd7906e182",
+          "name": "duration",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It\u0027s good to hear that you are $feelings.\nWhen you think positive, good things happen.",
+            "it\u0027s sad to hear that you are $negativefeelings .Dont worry, life gets better.Do you want to share an incident thats troubling you"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

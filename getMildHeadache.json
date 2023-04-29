@@ -1,0 +1,35 @@
+{
+  "id": "d0fa2f1e-7dce-49f0-bceb-3ac17b668740",
+  "name": "getMildHeadache",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If it is a mild headache, Apply a cold compress to your forehead or temples to reduce inflammation.\nDrink plenty of water to stay hydrated.\nTry practicing relaxation techniques, such as deep breathing or meditation, to reduce stress. However, please note that these are not a substitute for professional medical advice. If your symptoms persist or worsen, it\u0027s important to seek medical attention."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,203 @@
+[
+  {
+    "id": "90981dc5-c6d4-4318-b0b5-3430726fb32d",
+    "data": [
+      {
+        "text": "Yes sometimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68cd4626-e588-4cd1-9ba0-b81ce815fb69",
+    "data": [
+      {
+        "text": "Yes",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0eb2075-e6f9-4b0f-b0c5-872124150207",
+    "data": [
+      {
+        "text": "No, I dont have any concentration problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4e70d7f-f86f-48e6-be1e-6fa3f6f2c6b3",
+    "data": [
+      {
+        "text": "Yes",
+        "meta": "@positiveBoolean",
+        "alias": "positiveBoolean",
+        "userDefined": false
+      },
+      {
+        "text": ", I cannot concentrate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5331e293-234c-44e3-8d04-a2db0bdbe0e9",
+    "data": [
+      {
+        "text": "I am lacking concentration these days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab48d0b7-f151-4a2c-afd6-33fc9b7f1a8b",
+    "data": [
+      {
+        "text": "i am not able to concentrate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "931d59d4-210d-4b9d-800a-350c18cfbb65",
+    "data": [
+      {
+        "text": "not at all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7818f21c-5aab-4e56-9d18-b9e37d620b52",
+    "data": [
+      {
+        "text": "No, I can manage with my daily tasks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d7ecbef-a80e-4ce5-907b-ce6b194cbaef",
+    "data": [
+      {
+        "text": "I am not able to concetrate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ae1e802-36c7-4280-924e-9613418bef09",
+    "data": [
+      {
+        "text": "I find it hard to concentrate on my ",
+        "userDefined": false
+      },
+      {
+        "text": "daily",
+        "userDefined": true
+      },
+      {
+        "text": " tasks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94300b1d-096e-4f72-8174-e13b78c8bcba",
+    "data": [
+      {
+        "text": "My concentration levels are ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@negativeFeelings",
+        "alias": "negativeFeelings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da009225-149a-4795-9209-8a9362f9419e",
+    "data": [
+      {
+        "text": "I find it hard to concentrate on my daily tasks  sometimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6a7c126-cfe9-4fb9-9179-8efe16cb16c2",
+    "data": [
+      {
+        "text": "yeah",
+        "meta": "@positiveBoolean",
+        "alias": "positiveBoolean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

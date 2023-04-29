@@ -1,0 +1,93 @@
+[
+  {
+    "id": "6acc4299-7df1-4001-9c54-707e28683e82",
+    "data": [
+      {
+        "text": "i think my body feels warmer than usual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e28752e-0762-44e8-a282-20f343423430",
+    "data": [
+      {
+        "text": "i think i have fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5ed3dba-9e55-476b-a1d6-a82a2a7a05e4",
+    "data": [
+      {
+        "text": "i am feeling as if i have a fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18f972ef-a492-4afa-baf3-d57e85753112",
+    "data": [
+      {
+        "text": "i am feeling feverish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b409b0b2-6e12-401d-a84a-03ac288dc7b5",
+    "data": [
+      {
+        "text": "I feel like I have fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bf2a30f-7c9f-40ba-b605-6a6bcbeead4b",
+    "data": [
+      {
+        "text": "fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17189eef-f923-4e76-bcff-b4417e7eb20a",
+    "data": [
+      {
+        "text": "I feel feverish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

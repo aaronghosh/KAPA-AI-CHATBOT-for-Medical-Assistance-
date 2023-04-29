@@ -1,0 +1,35 @@
+{
+  "id": "f1f2c965-0a92-45c4-a13b-e92060ebf595",
+  "name": "getCrampStomachAche",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Drink ginger tea to soothe your stomach and relieve nausea.\nEat a banana or apple, as they can help regulate digestion and reduce inflammation.\nApply a warm compress to your stomach to relieve pain.  However, please note that these are not a substitute for professional medical advice. If your symptoms persist or worsen, it\u0027s important to seek medical attention."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

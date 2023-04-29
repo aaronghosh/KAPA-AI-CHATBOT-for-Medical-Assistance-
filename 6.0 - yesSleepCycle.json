@@ -1,0 +1,65 @@
+{
+  "id": "d61d287e-8510-49ea-83e7-d467680af0ed",
+  "name": "6.0 - yesSleepCycle",
+  "auto": true,
+  "contexts": [
+    "getYesSleepCycle"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "yesConcetration",
+          "lifespan": 2,
+          "parameters": {}
+        },
+        {
+          "name": "noConcentration",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cddeea46-5186-49a4-90f5-33bc86385f24",
+          "name": "positiveBoolean",
+          "required": false,
+          "dataType": "@positiveBoolean",
+          "value": "$positiveBoolean",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Most healthy adults need between 7 to 9 hours of sleep per night to function at their best. Find out more information here - \nhttps://sleepfoundation.org/excessivesleepiness/content/how-much-sleep-do-we-really-need-0\nDo you find it difficult to concentrate on your daily tasks?",
+            "Most healthy adults need between 7 to 9 hours of sleep per night to function at their best. Find out more information here - \nhttps://sleepfoundation.org/excessivesleepiness/content/how-much-sleep-do-we-really-need-0\nDo you find it difficult to concentrate on your daily activities?",
+            "Most healthy adults need between 7 to 9 hours of sleep per night to function at their best. Find out more information here - \nhttps://sleepfoundation.org/excessivesleepiness/content/how-much-sleep-do-we-really-need-0\nDo you find it difficult to concentrate on your day-to-day tasks?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

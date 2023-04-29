@@ -1,0 +1,58 @@
+[
+  {
+    "id": "9ed2e4b4-fbe0-4f4c-96d4-25f3ee5d1afd",
+    "data": [
+      {
+        "text": "severe ache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2225af73-e4b2-44e8-aff0-e942f510dcff",
+    "data": [
+      {
+        "text": "severe stomach ache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0cd72b1-23bd-457d-b501-ab2dc3138b8a",
+    "data": [
+      {
+        "text": "severe ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbe00312-a76c-4f92-9267-bc48c1384f0e",
+    "data": [
+      {
+        "text": "severe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

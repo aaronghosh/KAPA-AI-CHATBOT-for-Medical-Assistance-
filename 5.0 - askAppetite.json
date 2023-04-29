@@ -1,0 +1,79 @@
+{
+  "id": "9bf6636d-5f5c-4cce-be8d-ed7eff656f80",
+  "name": "5.0 - askAppetite",
+  "auto": true,
+  "contexts": [
+    "getNoIncident"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "getYesAppetite",
+          "lifespan": 2,
+          "parameters": {}
+        },
+        {
+          "name": "getNoAppetite",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "01bed100-b229-4e53-970d-ccd4f30b945c",
+          "name": "feelings",
+          "required": false,
+          "dataType": "@feelings",
+          "value": "$feelings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a2ac5516-05cb-4197-b2e5-88431305ed47",
+          "name": "positiveBoolean",
+          "required": false,
+          "dataType": "@positiveBoolean",
+          "value": "$positiveBoolean",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Have you had any sudden weight loss or gain?",
+            "Have you had any sudden changes in your weight?",
+            "Have you had any sudden changes in your body weight?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

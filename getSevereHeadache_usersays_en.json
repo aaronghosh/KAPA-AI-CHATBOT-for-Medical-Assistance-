@@ -1,0 +1,53 @@
+[
+  {
+    "id": "df72b70b-41aa-4a97-949e-a940813496d2",
+    "data": [
+      {
+        "text": "severe",
+        "userDefined": true
+      },
+      {
+        "text": " headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a62e5894-9a3c-4f51-93d9-eea42c30068a",
+    "data": [
+      {
+        "text": "severe",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b92be69-3039-49cb-8438-1aeb5e2fbfca",
+    "data": [
+      {
+        "text": "severe",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
